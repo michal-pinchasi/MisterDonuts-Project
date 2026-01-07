@@ -1,5 +1,5 @@
 # MisterDonuts-Project
-# Mr. Donuts - Israeli Food & Marketing Site 🍩
+
 
 אתר תדמיתי בעיצוב מודרני עבור חברת "מיסטר דונאטס", המתמחה בייצור ושיווק דונאטס .
 
